@@ -55,7 +55,7 @@ _You will be given an array of numbers. For each number in the array you will ne
 
 function numObj(s) {
     const newArr = [];
-
+    
     s.forEach(elem => {
         let obj = {};
         if (!obj[elem]) {
@@ -67,7 +67,6 @@ function numObj(s) {
     return newArr;
 }
 ````
-
 <br>
 
 >### Education:
