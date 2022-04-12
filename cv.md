@@ -4,6 +4,7 @@
 <br>
 
 ### `Contact:`
+* Location: Minsk, Republic of Belarus
 * Phone: +375296442544
 * E-mail: pislakov@gmail.com
 * GitHub: [First-quantum-mind](https://www.google.com/url?q=https://github.com/First-quantum-mind&sa=D&source=editors&ust=1638880047400000&usg=AOvVaw1kfsgOIRtupiFKNbCmr3hL)
