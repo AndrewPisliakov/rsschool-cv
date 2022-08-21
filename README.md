@@ -3,7 +3,3 @@
 
 > ## reference my cv ["click here"](https://First-quantum-mind.github.io/rsschool-cv/cv)
 ***
-<br> 
-or you can choose here reference:
-<br> 
-https://First-quantum-mind.github.io/rsschool-cv/cv
